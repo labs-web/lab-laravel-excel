@@ -1,4 +1,4 @@
-<=================== How to intsall package Excel Maatwebsite\Excel ======================> 
+<====== How to intsall package Excel Maatwebsite\Excel ========> 
 
 
 
